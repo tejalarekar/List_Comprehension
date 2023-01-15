@@ -4,7 +4,7 @@ List comprehension is a concise way to create a new list by applying an operatio
 
 1. An example of list comprehension:
 
-squared_numbers = [x**2 for x in [1, 2, 3, 4]]
+squared_numbers = [x**2 for x in [1, 2, 3, 4]
 This creates a new list squared_numbers where each element is the square of the corresponding element of the original list [1, 2, 3, 4]
 
 2. You can also add conditional statements in the list comprehension, like this:
